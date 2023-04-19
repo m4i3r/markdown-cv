@@ -19,7 +19,16 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 
 ## Career
 
-`11/22 - Current`
+`04/23 - Current`
+__Working Student Software Engineering__,
+<a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Munich (remote)
+
+- Contributed to scaling the new code-based architecture to increase the number of cars served by it from 10% to 60%
+- Collaborated with product owners and stakeholders to decompose features into clear and concise requirements 
+
+<p class="paragraph"></p>
+
+`11/22 - 03/23`
 __Internship Software Engineering__,
 <a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Dublin (remote)
 
@@ -72,13 +81,13 @@ __Emergency Medical Technician__, <a href="https://www.linkedin.com/company/brk-
 - Response to life-threatening emergency calls where teamwork and clear communication is top priority
 - Strengthened guidance abilities as responsible team leader for non-life-threatening but critical medical transports
 
-<p class="paragraph"></p>
+<p class="pageBreak"></p>
 
 
 ## Education
 
 `10/20 - Current`
-__Business Information Systems (B.Sc.)__ Technical University of applied Sciences Rosenheim
+__Business Information Systems (B.Sc.)__ Technical University of Applied Sciences Rosenheim
 
 - Grade average __1.7__ 
 
@@ -90,7 +99,7 @@ __A-Levels__ Specialised Secondary School, Altoetting
 
 
 
-<h2 class="pageBreak">Skills</h2>
+## Skills
 
 <ul class="skills">
 <li class="item"><strong>Java</strong></li>

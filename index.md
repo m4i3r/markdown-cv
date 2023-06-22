@@ -23,7 +23,7 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 __Working Student Software Engineering__,
 <a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Munich (remote)
 
-- Contributed to scaling the new code-based architecture to increase the number of cars served by it from 10% to 60%
+- Contributed to scaling the new code-based architecture to increase the number of cars served by it from 10% to 95%
 - Collaborated with product owners and stakeholders to decompose features into clear and concise requirements 
 
 <p class="paragraph"></p>

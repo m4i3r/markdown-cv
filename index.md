@@ -3,7 +3,9 @@ layout: cv
 title: Manuel Maier
 icon: 👨‍💻
 ---
+
 # Manuel Maier
+
 Student, Software Engineer, Tech Enthusiast.
 
 <div id="webaddress">
@@ -12,7 +14,6 @@ Student, Software Engineer, Tech Enthusiast.
 <a href="https://www.linkedin.com/in/hi-its-manuel/?locale=en_US" target="_blank">LinkedIn</a>
 </div>
 
-
 ## About me
 
 Detail-oriented, organized, and analytical employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to everyone's success.
@@ -20,17 +21,26 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 ## Career
 
 `04/23 - Current`
-__Working Student Software Engineering__,
-<a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Munich (remote)
+**Thesis Student Business Information Systems**,
+<a href="https://www.linkedin.com/company/msgforbanking/" target="_blank">msg for banking ag</a>, Berlin (remote)
+
+- Topic: "CO₂-efficiency in the financial sector: development of a test procedure and analysis of cloud and on-premise operations"
+- Independent processing to scientific standards with self-management of hardware provided
+
+<p class="paragraph"></p>
+
+`04/23 - Current`
+**Working Student Software Engineering**,
+<a href="https://www.linkedin.com/company/finn-auto" target="_blank">FINN</a>, Munich (remote)
 
 - Contributed to scaling the new code-based architecture to increase the number of cars served by it from 10% to 95%
-- Collaborated with product owners and stakeholders to decompose features into clear and concise requirements 
+- Collaborated with product owners and stakeholders to decompose features into clear and concise requirements
 
 <p class="paragraph"></p>
 
 `11/22 - 03/23`
-__Internship Software Engineering__,
-<a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Dublin (remote)
+**Internship Software Engineering**,
+<a href="https://www.linkedin.com/company/finn-auto" target="_blank">FINN</a>, Dublin (remote)
 
 - Development in an agile environment with close collaboration with colleagues and supervisors
 - Migrating an existing No-Code-Platform towards a robust, scalable and performant API Architecture written in TypeScript
@@ -39,7 +49,7 @@ __Internship Software Engineering__,
 <p class="paragraph"></p>
 
 `09/22 - 11/22`
-__Internship Sales Representative__, <a href="https://www.linkedin.com/company/datadyne-consulting/" target="_blank">DataDyne Consulting</a>, Dublin
+**Internship Sales Representative**, <a href="https://www.linkedin.com/company/datadyne-consulting/" target="_blank">DataDyne Consulting</a>, Dublin
 
 - Enforcing the sales team with lead generation
 - Contact new and existing customers to meet and exceed sales objectives
@@ -48,7 +58,7 @@ __Internship Sales Representative__, <a href="https://www.linkedin.com/company/d
 <p class="paragraph"></p>
 
 `03/22 - 09/22`
-__Working Student Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
+**Working Student Full-Stack Software Engineer**, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
 
 - Implementation of features in client projects using a Development-Stack (Java, Springboot, ReactJS, Docker, Kubernetes)
 - Checking client code for bugs and weaknesses using approved troubleshooting methods
@@ -56,9 +66,8 @@ __Working Student Full-Stack Software Engineer__, <a href="https://www.linkedin.
 
 <p class="paragraph"></p>
 
-
 `02/22 - 03/22`
-__Internship Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
+**Internship Full-Stack Software Engineer**, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
 
 - Experiencing core characteristics of agile development
 - Assistance in ongoing projects
@@ -66,9 +75,8 @@ __Internship Full-Stack Software Engineer__, <a href="https://www.linkedin.com/c
 
 <p class="paragraph"></p>
 
-
 `06/21 - 02/22`
-__Medical Emergency Service__, <a href="https://www.linkedin.com/company/ambulanz-rosenheim-gmbh/" target="_blank">Ambulanz Rosenheim</a>, Flintsbach
+**Medical Emergency Service**, <a href="https://www.linkedin.com/company/ambulanz-rosenheim-gmbh/" target="_blank">Ambulanz Rosenheim</a>, Flintsbach
 
 - Response to emergency calls
 - Assuring availability of medicine and maintenance of medical technology
@@ -76,28 +84,24 @@ __Medical Emergency Service__, <a href="https://www.linkedin.com/company/ambulan
 <p class="paragraph"></p>
 
 `09/18 - 09/20`
-__Emergency Medical Technician__, <a href="https://www.linkedin.com/company/brk-bayerisches-rotes-kreuz/" target="_blank">Bavarian Red Cross</a>, Burghausen
+**Emergency Medical Technician**, <a href="https://www.linkedin.com/company/brk-bayerisches-rotes-kreuz/" target="_blank">Bavarian Red Cross</a>, Burghausen
 
 - Response to life-threatening emergency calls where teamwork and clear communication is top priority
 - Strengthened guidance abilities as responsible team leader for non-life-threatening but critical medical transports
 
 <p class="pageBreak"></p>
 
-
 ## Education
 
 `10/20 - Current`
-__Business Information Systems (B.Sc.)__ Technical University of Applied Sciences Rosenheim
+**Business Information Systems (B.Sc.)** Technical University of Applied Sciences Rosenheim
 
-- Grade average __1.7__ 
+- Grade average **1.7**
 
 <p class="paragraph"></p>
 
-
 `09/15 - 07/17`
-__A-Levels__ Specialised Secondary School, Altoetting
-
-
+**A-Levels** Specialised Secondary School, Altoetting
 
 ## Skills
 
@@ -112,7 +116,6 @@ __A-Levels__ Specialised Secondary School, Altoetting
 <li class="item"><strong>Networking</strong></li>
 </ul>
 
-
 ## Languages
 
 <ul class="skills">
@@ -122,18 +125,18 @@ __A-Levels__ Specialised Secondary School, Altoetting
 
 ## While I'm not working
 
-__Homelab__
+**Homelab**
 
 A Home Lab is bascially a single or multiple computers that reside in your home, which act as servers to test, develop and share services for private use. Services I personally selfhost include a password manager, VPN, reverse proxy, cloud storage and many more.
 
 <p class="paragraph"></p>
 
-__Sports__
+**Sports**
 
 Sport has become one of the biggest offsets for me in everyday life. My focus mostly lies on training in the Gym to build up strength and running for stamina and willpower.
 
 <p class="paragraph"></p>
 
-__Volunteer in Ambulance Service__
+**Volunteer in Ambulance Service**
 
 Even though it is not my main job anymore I still love the work with people through the ambulance service. That's why I'm volunteering as an EMT in the German Ambulance Service for a handful of shifts per month.

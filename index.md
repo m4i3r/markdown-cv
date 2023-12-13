@@ -96,7 +96,7 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 `10/20 - Current`
 **Business Information Systems (B.Sc.)** Technical University of Applied Sciences Rosenheim
 
-- Grade average **1.7**
+- Grade average **1.56**
 
 <p class="paragraph"></p>
 

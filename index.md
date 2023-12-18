@@ -29,7 +29,7 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 
 <p class="paragraph"></p>
 
-`04/23 - Current`
+`04/23 - 09/23`
 **Working Student Software Engineering**,
 <a href="https://www.linkedin.com/company/finn-auto" target="_blank">FINN</a>, Munich (remote)
 
